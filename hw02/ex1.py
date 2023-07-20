@@ -2,9 +2,7 @@
 # Функцию hex используйте для проверки своего результата
 
 BASE_HEX = 16
-BASE_BIN = 2
 number = int(input('Введите число: '))
-result_bin = ''
 result_hex = ''
 print('Проверка: ', hex(number))
 
