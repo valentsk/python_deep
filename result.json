@@ -1,0 +1,1340 @@
+{
+    "C:\\temp\\python_new\\homework\\.git": {
+        "name": ".git",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 12273
+    },
+    "C:\\temp\\python_new\\homework\\hw01": {
+        "name": "hw01",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 264
+    },
+    "C:\\temp\\python_new\\homework\\hw02": {
+        "name": "hw02",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 176
+    },
+    "C:\\temp\\python_new\\homework\\hw03": {
+        "name": "hw03",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 264
+    },
+    "C:\\temp\\python_new\\homework\\hw04": {
+        "name": "hw04",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 176
+    },
+    "C:\\temp\\python_new\\homework\\hw05": {
+        "name": "hw05",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 264
+    },
+    "C:\\temp\\python_new\\homework\\hw06": {
+        "name": "hw06",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 465
+    },
+    "C:\\temp\\python_new\\homework\\hw07": {
+        "name": "hw07",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 1145
+    },
+    "C:\\temp\\python_new\\homework\\hw08": {
+        "name": "hw08",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "DIR",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\.gitignore": {
+        "name": ".gitignore",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "FILE",
+        "size": 87
+    },
+    "C:\\temp\\python_new\\homework\\result.bin": {
+        "name": "result.bin",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "FILE",
+        "size": 87
+    },
+    "C:\\temp\\python_new\\homework\\result.csv": {
+        "name": "result.csv",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "FILE",
+        "size": 87
+    },
+    "C:\\temp\\python_new\\homework\\result.json": {
+        "name": "result.json",
+        "path": "C:\\temp\\python_new\\homework",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks": {
+        "name": "hooks",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "DIR",
+        "size": 1397
+    },
+    "C:\\temp\\python_new\\homework\\.git\\info": {
+        "name": "info",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "DIR",
+        "size": 94
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs": {
+        "name": "logs",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "DIR",
+        "size": 304
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects": {
+        "name": "objects",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "DIR",
+        "size": 9825
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs": {
+        "name": "refs",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "DIR",
+        "size": 203
+    },
+    "C:\\temp\\python_new\\homework\\.git\\COMMIT_EDITMSG": {
+        "name": "COMMIT_EDITMSG",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\.git\\config": {
+        "name": "config",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\.git\\description": {
+        "name": "description",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "FILE",
+        "size": 93
+    },
+    "C:\\temp\\python_new\\homework\\.git\\HEAD": {
+        "name": "HEAD",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "FILE",
+        "size": 86
+    },
+    "C:\\temp\\python_new\\homework\\.git\\index": {
+        "name": "index",
+        "path": "C:\\temp\\python_new\\homework\\.git",
+        "type": "FILE",
+        "size": 87
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\applypatch-msg.sample": {
+        "name": "applypatch-msg.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 109
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\commit-msg.sample": {
+        "name": "commit-msg.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 105
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\fsmonitor-watchman.sample": {
+        "name": "fsmonitor-watchman.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 113
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\post-update.sample": {
+        "name": "post-update.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 106
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\pre-applypatch.sample": {
+        "name": "pre-applypatch.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 109
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\pre-commit.sample": {
+        "name": "pre-commit.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 105
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\pre-merge-commit.sample": {
+        "name": "pre-merge-commit.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 111
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\pre-push.sample": {
+        "name": "pre-push.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 103
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\pre-rebase.sample": {
+        "name": "pre-rebase.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 105
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\pre-receive.sample": {
+        "name": "pre-receive.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 106
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\prepare-commit-msg.sample": {
+        "name": "prepare-commit-msg.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 113
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\push-to-checkout.sample": {
+        "name": "push-to-checkout.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 111
+    },
+    "C:\\temp\\python_new\\homework\\.git\\hooks\\update.sample": {
+        "name": "update.sample",
+        "path": "C:\\temp\\python_new\\homework\\.git\\hooks",
+        "type": "FILE",
+        "size": 101
+    },
+    "C:\\temp\\python_new\\homework\\.git\\info\\exclude": {
+        "name": "exclude",
+        "path": "C:\\temp\\python_new\\homework\\.git\\info",
+        "type": "FILE",
+        "size": 94
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\refs": {
+        "name": "refs",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs",
+        "type": "DIR",
+        "size": 213
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\HEAD": {
+        "name": "HEAD",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs",
+        "type": "FILE",
+        "size": 91
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\heads": {
+        "name": "heads",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs\\refs",
+        "type": "DIR",
+        "size": 102
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\remotes": {
+        "name": "remotes",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs\\refs",
+        "type": "DIR",
+        "size": 111
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\heads\\main": {
+        "name": "main",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\heads",
+        "type": "FILE",
+        "size": 102
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\remotes\\origin": {
+        "name": "origin",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\remotes",
+        "type": "DIR",
+        "size": 111
+    },
+    "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\remotes\\origin\\main": {
+        "name": "main",
+        "path": "C:\\temp\\python_new\\homework\\.git\\logs\\refs\\remotes\\origin",
+        "type": "FILE",
+        "size": 111
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\00": {
+        "name": "00",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\01": {
+        "name": "01",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\04": {
+        "name": "04",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\0d": {
+        "name": "0d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\10": {
+        "name": "10",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\13": {
+        "name": "13",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\16": {
+        "name": "16",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\21": {
+        "name": "21",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\24": {
+        "name": "24",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\25": {
+        "name": "25",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\26": {
+        "name": "26",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\2a": {
+        "name": "2a",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\2c": {
+        "name": "2c",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\30": {
+        "name": "30",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\38": {
+        "name": "38",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\3e": {
+        "name": "3e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\42": {
+        "name": "42",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\45": {
+        "name": "45",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\52": {
+        "name": "52",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\54": {
+        "name": "54",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\56": {
+        "name": "56",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\59": {
+        "name": "59",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\5c": {
+        "name": "5c",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\66": {
+        "name": "66",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\68": {
+        "name": "68",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\6d": {
+        "name": "6d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\6e": {
+        "name": "6e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\6f": {
+        "name": "6f",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\70": {
+        "name": "70",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\71": {
+        "name": "71",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7b": {
+        "name": "7b",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7d": {
+        "name": "7d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7e": {
+        "name": "7e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\80": {
+        "name": "80",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\83": {
+        "name": "83",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\86": {
+        "name": "86",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\94": {
+        "name": "94",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\95": {
+        "name": "95",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\98": {
+        "name": "98",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\9d": {
+        "name": "9d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\9e": {
+        "name": "9e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\a4": {
+        "name": "a4",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\a6": {
+        "name": "a6",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\af": {
+        "name": "af",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\b0": {
+        "name": "b0",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\b1": {
+        "name": "b1",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\b8": {
+        "name": "b8",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\bb": {
+        "name": "bb",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\bd": {
+        "name": "bd",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\c6": {
+        "name": "c6",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\cd": {
+        "name": "cd",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d5": {
+        "name": "d5",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d6": {
+        "name": "d6",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d9": {
+        "name": "d9",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 262
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\da": {
+        "name": "da",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\db": {
+        "name": "db",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\e1": {
+        "name": "e1",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\e6": {
+        "name": "e6",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\ed": {
+        "name": "ed",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f2": {
+        "name": "f2",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f7": {
+        "name": "f7",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f8": {
+        "name": "f8",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f9": {
+        "name": "f9",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\ff": {
+        "name": "ff",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\info": {
+        "name": "info",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 0
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\pack": {
+        "name": "pack",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects",
+        "type": "DIR",
+        "size": 0
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\00\\9da7acb4ab30adddee799de904aa814af4c808": {
+        "name": "9da7acb4ab30adddee799de904aa814af4c808",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\00",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\01\\b50928a5e93267e8ef23474fe6a97d1efaebca": {
+        "name": "b50928a5e93267e8ef23474fe6a97d1efaebca",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\01",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\04\\3d2fb07b8a9033a52b9b1da8ba3c7441ae2e3f": {
+        "name": "3d2fb07b8a9033a52b9b1da8ba3c7441ae2e3f",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\04",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\0d\\1d2ab68c5fa41aec2b2a35b35db2eee1af9e65": {
+        "name": "1d2ab68c5fa41aec2b2a35b35db2eee1af9e65",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\0d",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\10\\9ebf5612c6e7c64c5ea588da49778cb72d3097": {
+        "name": "9ebf5612c6e7c64c5ea588da49778cb72d3097",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\10",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\10\\b3016d049c14a66159c8ad447d8a1129ac3628": {
+        "name": "b3016d049c14a66159c8ad447d8a1129ac3628",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\10",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\13\\e0888df31e470cac3a2edb77b8f7c2a297380c": {
+        "name": "e0888df31e470cac3a2edb77b8f7c2a297380c",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\13",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\16\\6bd0fc3184a2c653a3fb3bdac855380482815c": {
+        "name": "6bd0fc3184a2c653a3fb3bdac855380482815c",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\16",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\21\\8f93e915b51e248940290650880fab31f4466f": {
+        "name": "8f93e915b51e248940290650880fab31f4466f",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\21",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\21\\e6931641e868741e69c0bce321cda7638b9693": {
+        "name": "e6931641e868741e69c0bce321cda7638b9693",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\21",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\24\\f0e364d805a22a20bd670b6d4cd40bf564e313": {
+        "name": "f0e364d805a22a20bd670b6d4cd40bf564e313",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\24",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\25\\54cfa37c848004a0808675682bc9cd46e0fa5f": {
+        "name": "54cfa37c848004a0808675682bc9cd46e0fa5f",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\25",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\26\\3196c6d527e5f5859184e2ab1c065ccd9dbbf9": {
+        "name": "3196c6d527e5f5859184e2ab1c065ccd9dbbf9",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\26",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\2a\\672d6e5585b512a7d35e377fdf7481f7f373b0": {
+        "name": "672d6e5585b512a7d35e377fdf7481f7f373b0",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\2a",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\2c\\1950b4c47f8e834737e3ce31dfa547ed2de463": {
+        "name": "1950b4c47f8e834737e3ce31dfa547ed2de463",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\2c",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\30\\34d1da4aa476bd11c882c7023b3f1380ca587b": {
+        "name": "34d1da4aa476bd11c882c7023b3f1380ca587b",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\30",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\38\\2157ed2aaacddec72055ffd7efed0e9fefb9e4": {
+        "name": "2157ed2aaacddec72055ffd7efed0e9fefb9e4",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\38",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\3e\\1e594090a20b14a0b48edc84b47fe574a77c7b": {
+        "name": "1e594090a20b14a0b48edc84b47fe574a77c7b",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\3e",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\42\\d2c582f5865e6ac7b5c8c2858eacf598f76788": {
+        "name": "d2c582f5865e6ac7b5c8c2858eacf598f76788",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\42",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\45\\5f1db2df8518f6b86015bd70cb663c4a538b2d": {
+        "name": "5f1db2df8518f6b86015bd70cb663c4a538b2d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\45",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\45\\c2e164b257de187b2326d39346f296ead9c474": {
+        "name": "c2e164b257de187b2326d39346f296ead9c474",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\45",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\52\\6a6797813803d5cd6112555ddf922989ad7772": {
+        "name": "6a6797813803d5cd6112555ddf922989ad7772",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\52",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\54\\833b6888691f022c73968138f6f37531f3cd38": {
+        "name": "833b6888691f022c73968138f6f37531f3cd38",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\54",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\56\\92bdced110c21a08781323bf2580d96d96c534": {
+        "name": "92bdced110c21a08781323bf2580d96d96c534",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\56",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\56\\c85f304b7dc1a341895aa1cdf903a960216fe4": {
+        "name": "c85f304b7dc1a341895aa1cdf903a960216fe4",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\56",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\59\\e7b8668d7dfdd4f1b0a0d8417f736afb3a7c8e": {
+        "name": "e7b8668d7dfdd4f1b0a0d8417f736afb3a7c8e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\59",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\5c\\eb3864c2911029f0a6010fadab352e4b8e2d07": {
+        "name": "eb3864c2911029f0a6010fadab352e4b8e2d07",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\5c",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\66\\703977c69998037681e2a8ad7703fdd360a08d": {
+        "name": "703977c69998037681e2a8ad7703fdd360a08d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\66",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\68\\4f6aa1728e4504cb515c88e1db3f6b1767e506": {
+        "name": "4f6aa1728e4504cb515c88e1db3f6b1767e506",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\68",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\68\\e663711d1dd02a59c5083a59865c2471305d24": {
+        "name": "e663711d1dd02a59c5083a59865c2471305d24",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\68",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\6d\\2228f627c28ba36be0e256f179966e86ddb88d": {
+        "name": "2228f627c28ba36be0e256f179966e86ddb88d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\6d",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\6e\\31da376c2759e3831f38b8fd247bd644c81b3e": {
+        "name": "31da376c2759e3831f38b8fd247bd644c81b3e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\6e",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\6f\\126c79c4347e1152eae9af7a9fdfc3f497221e": {
+        "name": "126c79c4347e1152eae9af7a9fdfc3f497221e",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\6f",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\70\\005c1341d8d9ba7b041c1928e6a75c6e6f0ecb": {
+        "name": "005c1341d8d9ba7b041c1928e6a75c6e6f0ecb",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\70",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\71\\50fa0db5c5eb75be0ef45698df16723ea621e6": {
+        "name": "50fa0db5c5eb75be0ef45698df16723ea621e6",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\71",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7b\\9fbce40c63b92a5b798eb2c6f40a5bfb792444": {
+        "name": "9fbce40c63b92a5b798eb2c6f40a5bfb792444",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\7b",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7d\\0b0fe0cf9bd201c343dd34f6384aa43ac0d5d1": {
+        "name": "0b0fe0cf9bd201c343dd34f6384aa43ac0d5d1",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\7d",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7d\\f0e152117edfb75388b6a55b08c1236e09012a": {
+        "name": "f0e152117edfb75388b6a55b08c1236e09012a",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\7d",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7e\\120b303ab9179ff541be1000defd171d313428": {
+        "name": "120b303ab9179ff541be1000defd171d313428",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\7e",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\7e\\ef82321ff863971629baffd0fbafd7bc72a612": {
+        "name": "ef82321ff863971629baffd0fbafd7bc72a612",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\7e",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\80\\32d9cb9c3c92af295678a9c319991281ff42c9": {
+        "name": "32d9cb9c3c92af295678a9c319991281ff42c9",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\80",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\83\\bcef5a4ca676bccf5d7eecf7942c6f80e07a8f": {
+        "name": "bcef5a4ca676bccf5d7eecf7942c6f80e07a8f",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\83",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\86\\9bf8403d221b272e4024ec37b1802b80683324": {
+        "name": "9bf8403d221b272e4024ec37b1802b80683324",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\86",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\86\\e2d5ec327851cfa788d7eef483dc20274fd19d": {
+        "name": "e2d5ec327851cfa788d7eef483dc20274fd19d",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\86",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\94\\fcd0f22eefa689209336a4385d078602385171": {
+        "name": "fcd0f22eefa689209336a4385d078602385171",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\94",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\95\\82d88afa7fe68470bfecd13c8b9b29a4d621b7": {
+        "name": "82d88afa7fe68470bfecd13c8b9b29a4d621b7",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\95",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\98\\bccf5690cc3053730329fa1b8c98dc0d52622a": {
+        "name": "bccf5690cc3053730329fa1b8c98dc0d52622a",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\98",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\9d\\38e6a938466c2594cb9b5fba30fcd38ca64746": {
+        "name": "38e6a938466c2594cb9b5fba30fcd38ca64746",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\9d",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\9e\\699212dd1cc78b22224d58b5541f69c3829c3b": {
+        "name": "699212dd1cc78b22224d58b5541f69c3829c3b",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\9e",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\a4\\b2536ab1a0cbc6c112ca42084c2332aceb5a38": {
+        "name": "b2536ab1a0cbc6c112ca42084c2332aceb5a38",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\a4",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\a6\\3f280a9718e16718da4e5a90b2b5f21a797ce9": {
+        "name": "3f280a9718e16718da4e5a90b2b5f21a797ce9",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\a6",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\a6\\ce3a3eaad9801def5404aa157f0e11106789be": {
+        "name": "ce3a3eaad9801def5404aa157f0e11106789be",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\a6",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\af\\8ff05d6bedb5b8814c3889723330540b1fad64": {
+        "name": "8ff05d6bedb5b8814c3889723330540b1fad64",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\af",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\af\\e29b2b2523e3fc8d309840daedced57024d2f3": {
+        "name": "e29b2b2523e3fc8d309840daedced57024d2f3",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\af",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\b0\\3a8ea46d9791dce1a515295322cb9070fa114c": {
+        "name": "3a8ea46d9791dce1a515295322cb9070fa114c",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\b0",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\b1\\5bb86aac2fb9dafb135bfa7120e22cfc863953": {
+        "name": "5bb86aac2fb9dafb135bfa7120e22cfc863953",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\b1",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\b8\\e427e6c69c6e9f52e8c77dba272ede972e36c2": {
+        "name": "e427e6c69c6e9f52e8c77dba272ede972e36c2",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\b8",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\bb\\0622ab90796f63ab0a5d8ea41d925ddc0a135b": {
+        "name": "0622ab90796f63ab0a5d8ea41d925ddc0a135b",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\bb",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\bd\\67b92b59ca91e1b2aa9fe5b222cd88db322fb1": {
+        "name": "67b92b59ca91e1b2aa9fe5b222cd88db322fb1",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\bd",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\c6\\46243f1ecc0dc0cfc42d56992aa88ec713fbb4": {
+        "name": "46243f1ecc0dc0cfc42d56992aa88ec713fbb4",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\c6",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\cd\\6a0757f1ef5454cf7daf0d83d170b674be2409": {
+        "name": "6a0757f1ef5454cf7daf0d83d170b674be2409",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\cd",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d5\\c448c6445a4ea98469618e4c74a72b19bd8b35": {
+        "name": "c448c6445a4ea98469618e4c74a72b19bd8b35",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\d5",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d6\\12160619fe8f22a7b01610f55f544b16e29260": {
+        "name": "12160619fe8f22a7b01610f55f544b16e29260",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\d6",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d9\\45f928d569920ec5ceefce761af6dc2cfd4821": {
+        "name": "45f928d569920ec5ceefce761af6dc2cfd4821",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\d9",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\d9\\f0c564deae15b7fd97ef644706ebffd7e1c7b4": {
+        "name": "f0c564deae15b7fd97ef644706ebffd7e1c7b4",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\d9",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\da\\b2575aa7d20b5ef60ccb9a8fe7acb9ccc2c84c": {
+        "name": "b2575aa7d20b5ef60ccb9a8fe7acb9ccc2c84c",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\da",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\db\\9c5feb86b7992eb313ed81bc25e81286e9cdaa": {
+        "name": "9c5feb86b7992eb313ed81bc25e81286e9cdaa",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\db",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\e1\\2b169fb8d917c4f61ac842e2c9ac4f81487dc1": {
+        "name": "2b169fb8d917c4f61ac842e2c9ac4f81487dc1",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\e1",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+        "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\e6",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\ed\\039c29a38949860c2c07b2f31bb0cb50951b74": {
+        "name": "039c29a38949860c2c07b2f31bb0cb50951b74",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\ed",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f2\\4d235eec4fbc40655b7c581402f3693f267243": {
+        "name": "4d235eec4fbc40655b7c581402f3693f267243",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\f2",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f7\\ff62a0942aaf9b77b851abda6a3500be6fd256": {
+        "name": "ff62a0942aaf9b77b851abda6a3500be6fd256",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\f7",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f8\\7f92d0d2493282341806750ae484cbdac3e0c9": {
+        "name": "7f92d0d2493282341806750ae484cbdac3e0c9",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\f8",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\f9\\1e0a0ead3985363ea18d310926dc5b19cb8080": {
+        "name": "1e0a0ead3985363ea18d310926dc5b19cb8080",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\f9",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\objects\\ff\\057f562a38314f158ffeee2fc7c3c797c38084": {
+        "name": "057f562a38314f158ffeee2fc7c3c797c38084",
+        "path": "C:\\temp\\python_new\\homework\\.git\\objects\\ff",
+        "type": "FILE",
+        "size": 131
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs\\heads": {
+        "name": "heads",
+        "path": "C:\\temp\\python_new\\homework\\.git\\refs",
+        "type": "DIR",
+        "size": 97
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs\\remotes": {
+        "name": "remotes",
+        "path": "C:\\temp\\python_new\\homework\\.git\\refs",
+        "type": "DIR",
+        "size": 106
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs\\tags": {
+        "name": "tags",
+        "path": "C:\\temp\\python_new\\homework\\.git\\refs",
+        "type": "DIR",
+        "size": 0
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs\\heads\\main": {
+        "name": "main",
+        "path": "C:\\temp\\python_new\\homework\\.git\\refs\\heads",
+        "type": "FILE",
+        "size": 97
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs\\remotes\\origin": {
+        "name": "origin",
+        "path": "C:\\temp\\python_new\\homework\\.git\\refs\\remotes",
+        "type": "DIR",
+        "size": 106
+    },
+    "C:\\temp\\python_new\\homework\\.git\\refs\\remotes\\origin\\main": {
+        "name": "main",
+        "path": "C:\\temp\\python_new\\homework\\.git\\refs\\remotes\\origin",
+        "type": "FILE",
+        "size": 106
+    },
+    "C:\\temp\\python_new\\homework\\hw01\\ex1.py": {
+        "name": "ex1.py",
+        "path": "C:\\temp\\python_new\\homework\\hw01",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw01\\ex2.py": {
+        "name": "ex2.py",
+        "path": "C:\\temp\\python_new\\homework\\hw01",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw01\\ex3.py": {
+        "name": "ex3.py",
+        "path": "C:\\temp\\python_new\\homework\\hw01",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw02\\ex1.py": {
+        "name": "ex1.py",
+        "path": "C:\\temp\\python_new\\homework\\hw02",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw02\\ex2.py": {
+        "name": "ex2.py",
+        "path": "C:\\temp\\python_new\\homework\\hw02",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw03\\ex1.py": {
+        "name": "ex1.py",
+        "path": "C:\\temp\\python_new\\homework\\hw03",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw03\\ex2.py": {
+        "name": "ex2.py",
+        "path": "C:\\temp\\python_new\\homework\\hw03",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw03\\ex3.py": {
+        "name": "ex3.py",
+        "path": "C:\\temp\\python_new\\homework\\hw03",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw04\\ex1.py": {
+        "name": "ex1.py",
+        "path": "C:\\temp\\python_new\\homework\\hw04",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw04\\ex2.py": {
+        "name": "ex2.py",
+        "path": "C:\\temp\\python_new\\homework\\hw04",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw05\\ex1.py": {
+        "name": "ex1.py",
+        "path": "C:\\temp\\python_new\\homework\\hw05",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw05\\ex2.py": {
+        "name": "ex2.py",
+        "path": "C:\\temp\\python_new\\homework\\hw05",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw05\\ex3.py": {
+        "name": "ex3.py",
+        "path": "C:\\temp\\python_new\\homework\\hw05",
+        "type": "FILE",
+        "size": 88
+    },
+    "C:\\temp\\python_new\\homework\\hw06\\chess": {
+        "name": "chess",
+        "path": "C:\\temp\\python_new\\homework\\hw06",
+        "type": "DIR",
+        "size": 194
+    },
+    "C:\\temp\\python_new\\homework\\hw06\\date.py": {
+        "name": "date.py",
+        "path": "C:\\temp\\python_new\\homework\\hw06",
+        "type": "FILE",
+        "size": 89
+    },
+    "C:\\temp\\python_new\\homework\\hw06\\main.py": {
+        "name": "main.py",
+        "path": "C:\\temp\\python_new\\homework\\hw06",
+        "type": "FILE",
+        "size": 89
+    },
+    "C:\\temp\\python_new\\homework\\hw06\\__init__.py": {
+        "name": "__init__.py",
+        "path": "C:\\temp\\python_new\\homework\\hw06",
+        "type": "FILE",
+        "size": 93
+    },
+    "C:\\temp\\python_new\\homework\\hw06\\chess\\main.py": {
+        "name": "main.py",
+        "path": "C:\\temp\\python_new\\homework\\hw06\\chess",
+        "type": "FILE",
+        "size": 95
+    },
+    "C:\\temp\\python_new\\homework\\hw06\\chess\\__init__.py": {
+        "name": "__init__.py",
+        "path": "C:\\temp\\python_new\\homework\\hw06\\chess",
+        "type": "FILE",
+        "size": 99
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\00_main.py": {
+        "name": "00_main.py",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 92
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\bcjdkmlazp.mov": {
+        "name": "bcjdkmlazp.mov",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\frpojidatb.txt": {
+        "name": "frpojidatb.txt",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\icwekuyqdl.mov": {
+        "name": "icwekuyqdl.mov",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\jraygezfdv.jpg": {
+        "name": "jraygezfdv.jpg",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\lvhwmnkgou.mov": {
+        "name": "lvhwmnkgou.mov",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\qyprjxldik.txt": {
+        "name": "qyprjxldik.txt",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\qzalmjokbi.txt": {
+        "name": "qzalmjokbi.txt",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\syzvifxbgd.txt": {
+        "name": "syzvifxbgd.txt",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\tdjzngusba.mp3": {
+        "name": "tdjzngusba.mp3",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\xwgznepdiq.mov": {
+        "name": "xwgznepdiq.mov",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 96
+    },
+    "C:\\temp\\python_new\\homework\\hw07\\__init__.py": {
+        "name": "__init__.py",
+        "path": "C:\\temp\\python_new\\homework\\hw07",
+        "type": "FILE",
+        "size": 93
+    },
+    "C:\\temp\\python_new\\homework\\hw08\\ex1.py": {
+        "name": "ex1.py",
+        "path": "C:\\temp\\python_new\\homework\\hw08",
+        "type": "FILE",
+        "size": 88
+    }
+}
